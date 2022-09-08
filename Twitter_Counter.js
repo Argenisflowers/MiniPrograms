@@ -6,3 +6,4 @@ currentChar = userPrompt.length;
 remainingChar = charLimit - currentChar;
 console.log("You have written %d characters", userPrompt.length);
 console.log("You have %d characters left", remainingChar);
+alert(slice.userPrompt(0, 280));
