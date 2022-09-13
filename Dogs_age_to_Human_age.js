@@ -1,0 +1,1 @@
+//Dog age to human age formula is humanAge =(dogAge - 2) * 4 + 21;
